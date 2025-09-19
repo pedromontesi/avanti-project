@@ -1,0 +1,26 @@
+.text-tittle {
+    color: #0f1724;
+    font-size: 1.5rem;
+    line-height: 1.4;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+
+}
+
+.text-secundary {
+    color: #95a4b9;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+}
+
+.text-primary {
+    color: #0f1724;
+    font-size: 0.875rem;
+    line-height: 1.4;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+}
+
+

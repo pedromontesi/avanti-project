@@ -1,0 +1,47 @@
+/* GLOBAL */
+@import './global/reset.css';
+
+
+/* UTILITY */
+@import './utility/button.css';
+@import './utility/color.css';
+@import './utility/text.css';
+@import './utility/rem.css';
+
+
+/* HEADER  */
+@import 'header/header.css';
+
+/* FORM */
+@import './form/loginForm.css';
+
+/* SEARCH  */
+@import 'search/searchBox.css';
+
+/* PRODUCT  */
+@import './product/productModal.css';
+@import './product/productDelete.css';
+@import './product/productTable.css';
+
+
+
+
+/* FONT */
+@font-face {
+  font-family: "Inter";
+  src: url("../font/InterMedium.ttf") format("truetype");
+  font-weight: 500;
+
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("../font/InterRegular.ttf") format("truetype");
+  font-weight: 400;
+}
+
+* {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  line-height: 1.4;
+}

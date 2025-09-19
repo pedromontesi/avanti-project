@@ -1,0 +1,74 @@
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f1f5f9;
+  padding: 1.5rem;
+}
+
+.header-container {
+  display: flex;
+  padding: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: #f1f5f9;
+}
+
+.tittle-dashboard {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.tittle-dashboard img {
+  width: 24px;
+  height: 24px;
+  margin-right: 0.875rem;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.modal-header h2 {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.25rem;
+  color: #111827;
+}
+
+.close-modal {
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #6b7280;
+}
+
+.header-container {
+  border-bottom: 1px solid #ddd
+}
+
+.status {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.status-text {
+  padding-right: 1.5rem;
+}
+
+.exitButton {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.exitButton img {
+  padding-right: 0.25rem;
+}

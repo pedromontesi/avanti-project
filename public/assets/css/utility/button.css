@@ -1,0 +1,54 @@
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem; 
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: var(--default-border-radius);
+    transition: background 0.3s;
+    color: #fff;
+}
+
+.btn-primary,
+.btn-login {
+    background-color: var(--primary-color);
+}
+
+
+.btn-login {
+    width: 100%;
+} 
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+}
+
+.btn-danger {
+    background-color: var(--danger-color);
+}
+
+.btn-edit {
+    color: black;
+    background: #d3d3d3;
+}
+
+.btn-secondary {
+  background: #f3f4f6;
+  color: #111827;
+}
+
+.btn-secondary:hover {
+  background: #e5e7eb;
+}
+
+.btn-primary {
+  background: #10b981;
+  color: white;
+}
+
+.btn-primary:hover {
+  background: #059669;
+}
