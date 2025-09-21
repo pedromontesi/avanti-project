@@ -1,5 +1,5 @@
 Projeto para teste técnico – AVANTI Digital Commerce Experts.
-Informações gerais relacionadas ao banco de dados: confira os arquivo db.php e config.php.
+Informações gerais relacionadas ao banco de dados: confira os arquivos db.php e config.php.
 
 Logins e senhas para uso:
 
